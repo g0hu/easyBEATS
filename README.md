@@ -1,6 +1,6 @@
 # easyBEATS
 
-easyBEATS is a project started to make the installation of Beats packages faster and easier for Ubuntu, Mac, and even Raspberry Pi (ARM architecture)
+easyBEATS is a project started to make the installation of Beats packages faster and easier for Linux
 
 ## How To Use
 
